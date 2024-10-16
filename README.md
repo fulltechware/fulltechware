@@ -1,4 +1,4 @@
-<h1>Fulltechware<sup><sup>®</sup></sup> · Solution for Everything</h1>
+# Fulltechware<sup><sup>®</sup></sup> · Solution for Everything
 
 **Fulltechware** is a software house focused on offering complete and customizable solutions for the most diverse technology needs. We work with the development and licensing of customized systems, software and services, always seeking to meet the specific demands of each client with excellence.
 
