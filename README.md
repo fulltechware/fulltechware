@@ -27,7 +27,7 @@
 
 - **Databases**:
 
-- MongoDE, MySQL, SQLite
+- MongoDB, MySQL, SQLite
 
 ## 📈 Our Commitment
 
