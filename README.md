@@ -35,7 +35,7 @@
 
 ## 🌐 Contact
 
-To learn more about our services or discuss a project, contact us via GitHub or send an email to [fulltechware@gmail.com].
+To learn more about our services or discuss a project, contact us via GitHub or send an email to fulltechware@gmail.com.
 
 ---
 
